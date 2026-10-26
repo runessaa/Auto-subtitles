@@ -31,7 +31,7 @@
 git clone https://github.com/runessaa/Auto-subtitles.git
 cd Auto-subtitles
 ```
-*В разработке*
+*(В разработке)*
 
 ## Требования
 
