@@ -52,8 +52,8 @@ cd Auto-subtitles
 ## Как мы работаем
 
 - [Задачи](https://github.com/runessaa/Auto-subtitles/issues).
-- GitHub Projects: **ссылка**.
-- [Онлайн-доска команды](https://github.com/users/runessaa/projects/2)
+- [GitHub Projects](https://github.com/users/runessaa/projects/2).
+- [Онлайн-доска команды]()
 - [Правила работы и определение готовности](CONTRIBUTING.md).
 
 ## Команда
