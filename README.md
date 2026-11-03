@@ -53,7 +53,7 @@ cd Auto-subtitles
 
 - [Задачи](https://github.com/runessaa/Auto-subtitles/issues).
 - [GitHub Projects](https://github.com/users/runessaa/projects/2).
-- [Онлайн-доска команды]()
+- [Онлайн-доска команды](https://my.mts-link.ru/boards/board/9699473e-c5ff-4e49-bc06-3f9e3f2b9cfe)
 - [Правила работы и определение готовности](CONTRIBUTING.md).
 
 ## Команда
